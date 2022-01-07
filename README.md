@@ -1,24 +1,5 @@
-# README
+# Daily Tech Challenge #8 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+For today's tech challenge, I'm installing and configuring rails to see how much
+I can get done with the framework in a day. I don't have experience with Rails,
+but I do have experience with Ruby, so hopefully that will come in handy.
