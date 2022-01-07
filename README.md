@@ -13,7 +13,7 @@ hold the applause.
 
 Next, I followed the Ruby on Rails intro tutorial to generate blog post
 scaffolding. After running `rails generate scaffold post title:string
-content:text", I wound up with a whole lot of extra files to study and a
+content:text`, I wound up with a whole lot of extra files to study and a
 database migration job to complete with `rails db:migrate`. After that, little
 changed on the front end, but behind the scenes I assume a whack of tables were
 created in SQLite or whatever the default is.
